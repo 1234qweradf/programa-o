@@ -1,6 +1,6 @@
 import pygame
 
-i
+
 import sys
 
 # Inicialização do Pygame
