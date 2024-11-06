@@ -59,4 +59,4 @@ else:
 
 print(f'Quantidade de pedidos realizados: {contador}')
 print(f'O pedido mais caro foi: R${pedido_mais_caro:.2f}')
-print(f'O pedido mais baixo foi: R${pedido_mais_baixo:.2f}')
+print(f'O pedido mais baixo foi: R${pedido_mais_baixo:.2f}') 

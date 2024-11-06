@@ -1,0 +1,12 @@
+#Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total
+#do seu salário no referido mês.
+def soma_tres_parametros(a, b, c):
+    return a + b + c
+
+# Solicitação dos valores ao usuário
+a = float(input("Digite o primeiro valor: "))
+b = float(input("Digite o segundo valor: "))
+c = float(input("Digite o terceiro valor: "))
+
+resultado = soma_tres_parametros(a, b, c)
+print(f"A soma dos três parâmetros é: {resultado}")
